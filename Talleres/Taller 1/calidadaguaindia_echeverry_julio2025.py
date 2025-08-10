@@ -29,6 +29,9 @@ context =SQLContext(contexto)
 
 from pyspark.ml.evaluation import RegressionEvaluator
 
+
+
+
 """##**2. Carga de datos desde el IDRIVE**"""
 
 #Se conecta con IDRIVE de google
@@ -44,6 +47,10 @@ os.environ['SHAPE_RESTOR_SHX'] = 'YES'
 df00 = spark.read.csv(rutaCSV, header=True, inferSchema=True)
 #se requiere observar los primeros 5 datos cabecera
 df00.show(5)
+
+
+
+
 
 """##**3. Análisis y Preparación de Datos**
 Se presentan datos en formato CSV con los diferentes parámetros de los rios de la India. Cada paramentro es el promedio de los valores medidos en un período de tiempo. Los datos han sido extraidos de la web oficial de la India (RiverIndia)
@@ -76,6 +83,7 @@ df00.columns
 
 for valor in df00.columns:
   df00.describe([valor]).show()
+  
 
 """##**Visualización de los Datos**"""
 
@@ -105,6 +113,7 @@ df01 = spark.sql('''Select * from df00_sql where TEMP is not null and
 #Se verifica la Cantidad de Valores Nulos o Imposibles
 
 df01.select([F.count(F.when(F.isnan(c) | F.col(c).isNull(), c)).alias(c) for c in df01.columns]).show()
+
 
 """**Tratamiento de datos**"""
 
