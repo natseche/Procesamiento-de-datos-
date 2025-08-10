@@ -4,15 +4,15 @@
 **Fecha de Inicio:** 28/07/2025  
 **Fecha actual:** 10/08/2025  
 
-## 📌 Problemática
+## Problemática
 El tratamiento del agua es indispensable para garantizar su pureza y calidad.  
 Uno de los aspectos clave es aplicar conceptos de **procesamiento de datos en alto volumen** para abordar problemas que afectan la salud pública.  
 Este ejemplo tiene como propósito presentar una metodología para aplicar procesamiento masivo de datos con el fin de diagnosticar y predecir la calidad del agua en la India.
 
-## 🎯 Objetivo
+## Objetivo
 Implementar modelos de predicción utilizando la biblioteca de aprendizaje automático **MLlib** de PySpark, con el fin de explorar y aplicar técnicas de IA en entornos de procesamiento con alto volumen de datos.
 
-## 🛠 Metodología
+## Metodología
 1. **Importación de datos** desde IDRIVE (en diferentes formatos).
 2. **Preprocesamiento y limpieza**: manejo de valores nulos, cambios de tipo de datos, EDA, medidas estadísticas.
 3. **Entrenamiento de modelos**: Regresión Lineal (MLlib) y tensores (Keras) para predecir la calidad del agua.
