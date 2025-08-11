@@ -21,29 +21,6 @@ Implementar modelos de predicción utilizando la biblioteca de aprendizaje autom
 
 ---
 
-
-Autor: Natalia Echeverry Salcedo
-
-Fecha de Inicio: 28/07/2025
-
-Fecha actual: 10/08/2025
-
-##**Problemática**
-Se tiene que el tratamiento del agua debe ser indispensable para garantizar la pureza y la calidad. Uno de los elementos significativos es aplicar los conceptos de los procesamientos de datos en alto volúmen para solucionar este tipo de problemas que afectan la salid publica. El presente ejemplo tiene como propósito tener en cuenta una metodología para aplicar el procesamiento de alto volúmenes de datos para solucionar o diagnósticar la calidad del agua en la India.
-
-##**Objetivo**
-Implementar modelos de predicción utilizando la biblioteca de aprendizaje automático MLlib PySpark, con el fin de erxplorar y aplicar técnicas de IA en entornos de procesamiento con alto volúmen de datos.
-
-##**Metodología**
-1. Importación de los datos desde IDRIVE (datos en diferentes formatos).
-2. Preprocesamiento y limpieza de valores nulos, cambios de datos, EDA, medidas estadísticas.
-3. Entrenamiento de modelos: RL (MLlib), tensores (KERAS); la idea es predecir la calidad del agua en la India.
-4. Evaluaciíon de los modelos: medidas de rendimiento tales como: precisión (precsision), exactitud (accuracy), recall, F1 Score, entre otras.
-5. Se tiene como referencia de la calidad de los parametros del agua, la referencia: https://www.intechopen.com/chapters/69568
-
-
-
-
 ##**1. Importación de bibliotecas**
 
 
