@@ -1,6 +1,6 @@
-# Procesamiento de Datos – Talleres y Ejercicios
+# Procesamiento de Datos – Talleres, Cuadernos y Ejercicios
 
-Este repositorio contiene todos los talleres, ejercicios y ejemplos desarrollados en la materia **Procesamiento de Datos**.  
+Este repositorio contiene todos los talleres, ejercicios y cuadernos desarrollados en la materia **Procesamiento de Datos**.  
 Su objetivo es centralizar y documentar el progreso del curso, manteniendo un registro ordenado del trabajo realizado.
 
 ---
