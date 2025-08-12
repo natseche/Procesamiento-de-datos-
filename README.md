@@ -13,6 +13,7 @@ Su objetivo es centralizar y documentar el progreso del curso, manteniendo un re
 | Cuaderno 1 | Operaciones con Cadenas | Completado |
 | Cuaderno 2 | Tuplas en Python | Completado |
 | Cuaderno 3 | Listas en Python | Completado |
+| Cuaderno 4 | Conjuntos en Python | Completado |
 
 
 ---
