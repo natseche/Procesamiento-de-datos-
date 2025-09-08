@@ -20,6 +20,7 @@ Su objetivo es centralizar y documentar el progreso del curso, manteniendo un re
 | Ejercicio 8 | Funciones en Python | Completado |
 | Ejercicio 9 | Clases y Objetos en Python | Completado |
 | Bono 1 | Bono | Completado |
+| Parcial 1 | Analítica con Resultados y Gráficas | Completado |
 
 
 ---
