@@ -9,7 +9,7 @@ Su objetivo es centralizar y documentar el progreso del curso, manteniendo un re
 ##  Avance del Curso
 | Taller / Cuaderno de ejercicos / Parciales | Descripción | Estado |
 |--------|-------------|--------|
-| Taller 1 | Predicción de la Calidad del Agua en la India con PySpark MLlib | Pendiente |
+| Taller 1 | Predicción de la Calidad del Agua en la India con PySpark MLlib | Completado |
 | Ejercicio 1 | Operaciones con Cadenas | Completado |
 | Ejercicio 2 | Tuplas en Python | Completado |
 | Ejercicio 3 | Listas en Python | Completado |
