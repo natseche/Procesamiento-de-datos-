@@ -22,6 +22,7 @@ Su objetivo es centralizar y documentar el progreso del curso, manteniendo un re
 | Bono 1 | Bono | Completado |
 | Parcial 1 | Analítica con Resultados y Gráficas | Completado |
 | Taller 1 Entrega 2 | Predicción de la Calidad del Agua en la India con PySpark MLlib | Completado |
+| Proyecto Entrega 1 | Análisis de Datos Urbanos de la Ciudad de Nueva York: Educación, Pobreza y Seguridad | Completado |
 
 ---
 
